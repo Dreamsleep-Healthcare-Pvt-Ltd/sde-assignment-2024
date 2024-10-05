@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1727552809 source:d:\owngrowth\dsleep\sde-assignment-2024\lms\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<stdlib.h>
+	<unistd.h>
+
